@@ -2,7 +2,7 @@
 
 ![Tetris](screenshot.png)
 
-# Tetris Game (Python)
+# 🎮 Tetris Game (Python, Pygame)
 
 A simple Tetris game built using Python and Pygame.
 
@@ -30,3 +30,7 @@ A simple Tetris game built using Python and Pygame.
 ```bash
 pip install pygame
 python main_tetris.py
+
+## Author
+
+Lisa — Python & AI student, currently learning backend and DevOps.
