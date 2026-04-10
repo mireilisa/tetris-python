@@ -1,6 +1,6 @@
 ## Preview
 
-![Tetris](screenshot.jpg)
+![Tetris](screenshot.png)
 
 # Tetris Game (Python)
 
