@@ -1,3 +1,7 @@
+## Preview
+
+![Tetris](screenshot.jpg)
+
 # Tetris Game (Python)
 
 A simple Tetris game built using Python and Pygame.
